@@ -2,7 +2,7 @@
 
 Jednoduché schéma umístění elektroniky
 
-![image](https://github.com/user-attachments/assets/70ba5b63-928a-4066-8daa-6acce79455a6)
+![image](https://github.com/user-attachments/assets/cd09f0d7-1457-46c9-9fae-6c459b7615f9)
 
 Tady je excel tabulka věcí které koupím není dokončená a bude se jestě obnovovat: [Seznam](https://github.com/user-attachments/files/20494567/Claw.Machine.v4.BoM.xlsx)
 
