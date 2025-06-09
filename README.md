@@ -1,4 +1,4 @@
-# Automat na pití s robotickou rukou
+# Automat na pití s robotickou rukou na kolejnici
 
 Jednoduché schéma umístění elektroniky
 
