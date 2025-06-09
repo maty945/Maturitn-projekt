@@ -14,7 +14,7 @@ Tady je jak by vypadala kolejnice s rukou:
 
 Tady je jak by vypadala ruka jako taková:
 
-
+![image](https://github.com/user-attachments/assets/3c74915b-354e-4b04-8484-b0da93927a2a)
 
 Tady jsou výkresy jednotlivých dílů:
 
